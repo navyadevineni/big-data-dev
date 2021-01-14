@@ -1,3 +1,5 @@
+# Navya Devineni
+
 # Current
 Currently, I'm in the final semester of my Master's, majoring in Applied Computer Science. I'm having Graduate Directed Project and Big Data this semester.
 
