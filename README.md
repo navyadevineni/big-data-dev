@@ -10,6 +10,7 @@ I am from India. Completed my Bachelor's degree majoring in Electronics and Comm
 In the future, I would like to pursue my career in Salesforce company.  It's a CRM based company that brings customers and companies together. Recently, I completed 3 certifications related to Salesforce skills and focusing on learning more tools related to Salesforce.
 
 Something interesting about me is, I am a ranger in the salesforce community. 
+![Ranger](https://github.com/navyadevineni/big-data-dev/blob/main/RangerSS.png)
 
 
 ## Links
