@@ -10,13 +10,17 @@ I am from India. Completed my Bachelor's degree majoring in Electronics and Comm
 In the future, I would like to pursue my career in Salesforce company.  It's a CRM based company that brings customers and companies together. Recently, I completed 3 certifications related to Salesforce skills and focusing on learning more tools related to Salesforce.
 
 ## Skills
-If you would like to know what skills I gained while learning, here's an image --> ![Skills](https://github.com/navyadevineni/big-data-dev/blob/main/SkillesSS.png)
+If you would like to know what skills I gained while learning Salesforce are: here's an image --> ![Skills](https://github.com/navyadevineni/big-data-dev/blob/main/SkillesSS.png)
  
 Something interesting about me is, I am a ranger in the salesforce community. 
 ![Ranger](https://github.com/navyadevineni/big-data-dev/blob/main/RangerSS.png)
 
+## My Git repos related to Big Data
+- [Shell data processing commands](https://github.com/navyadevineni/big-data-shell-commands)
+
+
 
 ## Links
-You can check my profile here: [Trailblazer](https://trailblazer.me/id/navyadevineni)
+- You can check my profile here: [Trailblazer](https://trailblazer.me/id/navyadevineni)
 
-My LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/navya-devineni-486373105/)
+- My LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/navya-devineni-486373105/)
