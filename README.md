@@ -1,4 +1,5 @@
-# Navya Devineni
+# Navya Devineni    
+![Me](https://github.com/navyadevineni/big-data-dev/blob/main/portfolio_header.jpg)
 
 ## Current
 Currently, I'm in the final semester of my Master's, majoring in Applied Computer Science. I'm having Graduate Directed Project and Big Data this semester.
@@ -17,7 +18,6 @@ Something interesting about me is, I am a ranger in the salesforce community.
 
 ## My Git repos related to Big Data
 - [Shell data processing commands](https://github.com/navyadevineni/big-data-shell-commands)
-
 
 
 ## Links
