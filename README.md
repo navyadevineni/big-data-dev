@@ -16,6 +16,8 @@ If you would like to know what skills I gained while learning Salesforce are: he
 Something interesting about me is, I am a ranger in the salesforce community. 
 ![Ranger](https://github.com/navyadevineni/big-data-dev/blob/main/RangerSS.png)
 
+Besides these skills, I gained few other skills and still learning many based on the latest technologies. 
+
 ## My Git repos related to Big Data
 - [Shell data processing commands](https://github.com/navyadevineni/big-data-shell-commands)
 
