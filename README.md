@@ -23,6 +23,6 @@ Besides these skills, I gained few other skills and still learning many based on
 
 
 ## Links
-- You can check my profile here: [Trailblazer](https://trailblazer.me/id/navyadevineni)
+1. You can check my profile here: [Trailblazer](https://trailblazer.me/id/navyadevineni)
 
-- My LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/navya-devineni-486373105/)
+1. My LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/navya-devineni-486373105/)
