@@ -21,6 +21,8 @@ Besides these skills, I gained few other skills and still learning many based on
 ## My Git repos related to Big Data
 - [Shell data processing commands](https://github.com/navyadevineni/big-data-shell-commands)
 
+- [Hadoop slides](https://docs.google.com/presentation/d/18-0M3kSytxsmn_uSk9vLJGitUbdH6F937BSvA6HWrjo/edit?usp=sharing)
+
 
 ## Links
 1. You can check my profile here: [Trailblazer](https://trailblazer.me/id/navyadevineni)
