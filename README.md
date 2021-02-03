@@ -18,10 +18,14 @@ Something interesting about me is, I am a ranger in the salesforce community.
 
 Besides these skills, I gained few other skills and still learning many based on the latest technologies. 
 
+## Big Data Notes
+
+- [VM](https://drive.google.com/file/d/1uJ3Vg-CNc-DPFxMrjnHSeigvvzrdlZDz/view)
+- [Hadoop slides](https://docs.google.com/presentation/d/18-0M3kSytxsmn_uSk9vLJGitUbdH6F937BSvA6HWrjo/edit?usp=sharing)
+
 ## My Git repos related to Big Data
 - [Shell data processing commands](https://github.com/navyadevineni/big-data-shell-commands)
 
-- [Hadoop slides](https://docs.google.com/presentation/d/18-0M3kSytxsmn_uSk9vLJGitUbdH6F937BSvA6HWrjo/edit?usp=sharing)
 
 
 ## Links
