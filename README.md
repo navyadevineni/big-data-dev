@@ -25,6 +25,7 @@ Besides these skills, I gained few other skills and still learning many based on
 
 ## My Git repos related to Big Data
 - [Shell data processing commands](https://github.com/navyadevineni/big-data-shell-commands)
+- [maven-java-app](https://github.com/navyadevineni/maven-java-app)
 
 
 
