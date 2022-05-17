@@ -1,5 +1,5 @@
 # Navya Devineni    
-![Me](https://github.com/navyadevineni/big-data-dev/blob/main/Portfolio_image.jpg)
+![Me]
 
 ## Current
 Currently, I'm in the final semester of my Master's, majoring in Applied Computer Science. I'm having Graduate Directed Project and Big Data this semester.
